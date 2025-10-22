@@ -45,7 +45,7 @@ O sistema permitirá que os usuários criem, visualizem, editem e excluam tarefa
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone  https://github.com/Alex-Fillipe/Gerenciador-de-tarefas
    ```
 2. **Configuração do Banco de Dados:**
 - Crie um banco de dados no MySQL.
